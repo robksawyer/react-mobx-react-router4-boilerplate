@@ -3,7 +3,7 @@
 ### :tada: React, React-Router@next, MobX and Webpack 2.
 ## [Demo](http://boilerplate.mhaagens.me)
 
-Just run `yarn install` and `yarn start`, then go to localhost:3000 to start developing.
+Just run `yarn install` and `yarn start`, then go to localhost:3001 to start developing.
 To build, run `yarn run build`, and to preview run `yarn run preview`, then go
 to localhost:1234 for the minified production bundle.
 
